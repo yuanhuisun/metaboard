@@ -8,6 +8,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About Metaboard
+Metaboard is a web application based on Laravel Framework (https://laravel.com). With the power of Laravel Breeze (Laravel QuickStart), Metaboard 
+
+## Tailwindcss for Front-end UI
+The Front-end CSS UI is based on Tailwindcss(https://www.tailwindcss.cn/), which integrates flex, pt-4, text-center and rotate-90, and can be used in scripting markup language.
+- [Utility First](https://www.tailwindcss.cn/docs/utility-first)
+- [Responsive Design](https://www.tailwindcss.cn/docs/responsive-design)
+- [Hover, Focus and Other States](https://www.tailwindcss.cn/docs/hover-focus-and-other-states)
+- [Dark Mode](https://www.tailwindcss.cn/docs/dark-mode)
+- [Adding Base Style](https://www.tailwindcss.cn/docs/adding-base-styles)
+- [Extracting Components](https://www.tailwindcss.cn/docs/extracting-components)
+- [Adding New Utilities](https://www.tailwindcss.cn/docs/adding-new-utilities)
+- [Functions and Directives](https://www.tailwindcss.cn/docs/functions-and-directives)
+
+## Learning journey
+Personally I use metaboard to learn Laravel framework/PHP, it provides a basis for web-based application.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
