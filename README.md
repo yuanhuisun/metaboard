@@ -9,10 +9,10 @@
 </p>
 
 ## About Metaboard
-Metaboard is a web application based on Laravel Framework (https://laravel.com). With the power of Laravel Breeze (Laravel QuickStart), Metaboard 
+Metaboard is a web application based on [Laravel Framework](https://laravel.com), with the power of [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits). 
 
 ## Tailwindcss for Front-end UI
-The Front-end CSS UI is based on Tailwindcss(https://www.tailwindcss.cn/), which integrates flex, pt-4, text-center and rotate-90, and can be used in scripting markup language.
+The Front-end CSS UI is based on [Tailwindcss](https://www.tailwindcss.cn/), which integrates flex, pt-4, text-center and rotate-90, and can be used in scripting markup language.
 - [Utility First](https://www.tailwindcss.cn/docs/utility-first)
 - [Responsive Design](https://www.tailwindcss.cn/docs/responsive-design)
 - [Hover, Focus and Other States](https://www.tailwindcss.cn/docs/hover-focus-and-other-states)
